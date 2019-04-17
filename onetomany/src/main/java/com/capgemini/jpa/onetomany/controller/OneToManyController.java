@@ -12,7 +12,7 @@ import com.capgemini.jpa.onetomany.entity.Person;
 import com.capgemini.jpa.onetomany.service.PersonService;
 
 @RestController
-public class HelloController {
+public class OneToManyController {
 
 	@Autowired
 	PersonService service;
